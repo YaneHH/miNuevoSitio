@@ -12,4 +12,5 @@ github_username:  yanehh
 theme: minima
 plugins:
   - jekyll-feed
+  
 
